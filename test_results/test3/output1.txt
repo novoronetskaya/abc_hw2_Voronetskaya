@@ -1,0 +1,172 @@
+Filled container:
+Container contains 20 elements.
+0: 
+It is Documentary Film:
+ publication year = 1940 
+film name = sdad 
+film length =  230 
+Division result = 485.000000
+1: 
+It is Documentary Film:
+ publication year = 1943 
+film name = asghad 
+film length =  400 
+Division result = 323.833333
+2: 
+It is Cartoon Film:
+ publication year = 2003 
+film name = Addd 
+type = drawn
+Division result = 500.750000
+3: 
+It is Cartoon Film:
+ publication year = 1999 
+film name = NuPogodi 
+type = puppet
+Division result = 249.875000
+4: 
+It is Cartoon Film:
+ publication year = 1945 
+film name = Opqwe 
+type = drawn
+Division result = 389.000000
+5: 
+It is Cartoon Film:
+ publication year = 1999 
+film name = Lsadvadbdsnrhrld 
+type = plasticine
+Division result = 124.937500
+6: 
+It is Documentary Film:
+ publication year = 1987 
+film name = Lpaaa 
+film length =  200 
+Division result = 397.400000
+7: 
+It is Cartoon Film:
+ publication year = 1956 
+film name = POaspfo 
+type = plasticine
+Division result = 279.428571
+8: 
+It is Game Film:
+ publication year = 1899 
+film name = sndmde 
+director name = Lsdksld 
+Division result = 316.500000
+9: 
+It is Documentary Film:
+ publication year = 1990 
+film name = Alsdlsld 
+film length =  123 
+Division result = 248.750000
+10: 
+It is Documentary Film:
+ publication year = 1940 
+film name = sdad 
+film length =  230 
+Division result = 485.000000
+11: 
+It is Documentary Film:
+ publication year = 1943 
+film name = asghad 
+film length =  400 
+Division result = 323.833333
+12: 
+It is Cartoon Film:
+ publication year = 2003 
+film name = Addd 
+type = drawn
+Division result = 500.750000
+13: 
+It is Cartoon Film:
+ publication year = 1999 
+film name = NuPogodi 
+type = puppet
+Division result = 249.875000
+14: 
+It is Cartoon Film:
+ publication year = 1945 
+film name = Opqwe 
+type = drawn
+Division result = 389.000000
+15: 
+It is Cartoon Film:
+ publication year = 1999 
+film name = Lsadvadbdsnrhrld 
+type = plasticine
+Division result = 124.937500
+16: 
+It is Documentary Film:
+ publication year = 1987 
+film name = Lpaaa 
+film length =  200 
+Division result = 397.400000
+17: 
+It is Cartoon Film:
+ publication year = 1956 
+film name = POaspfo 
+type = plasticine
+Division result = 279.428571
+18: 
+It is Game Film:
+ publication year = 1899 
+film name = sndmde 
+director name = Lsdksld 
+Division result = 316.500000
+19: 
+It is Documentary Film:
+ publication year = 1990 
+film name = Alsdlsld 
+film length =  123 
+Division result = 248.750000
+Filtered container:
+Container contains 8 elements.
+0: 
+It is Documentary Film:
+ publication year = 1940 
+film name = sdad 
+film length =  230 
+Division result = 485.000000
+1: 
+It is Cartoon Film:
+ publication year = 2003 
+film name = Addd 
+type = drawn
+Division result = 500.750000
+2: 
+It is Cartoon Film:
+ publication year = 1945 
+film name = Opqwe 
+type = drawn
+Division result = 389.000000
+3: 
+It is Documentary Film:
+ publication year = 1987 
+film name = Lpaaa 
+film length =  200 
+Division result = 397.400000
+4: 
+It is Documentary Film:
+ publication year = 1940 
+film name = sdad 
+film length =  230 
+Division result = 485.000000
+5: 
+It is Cartoon Film:
+ publication year = 2003 
+film name = Addd 
+type = drawn
+Division result = 500.750000
+6: 
+It is Cartoon Film:
+ publication year = 1945 
+film name = Opqwe 
+type = drawn
+Division result = 389.000000
+7: 
+It is Documentary Film:
+ publication year = 1987 
+film name = Lpaaa 
+film length =  200 
+Division result = 397.400000

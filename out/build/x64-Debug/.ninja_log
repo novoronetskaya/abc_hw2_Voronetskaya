@@ -1,0 +1,18 @@
+# ninja log v5
+1159	1993	6566321832716584	CMakeFiles/abc_hw2.dir/game.cpp.obj	d6c93d4148a53e94
+502	1996	6566321832726585	CMakeFiles/abc_hw2.dir/documentary.cpp.obj	5f1d492eb4d9e29f
+900	2001	6566321832726585	CMakeFiles/abc_hw2.dir/cartoon.cpp.obj	3049f9cbe28a7205
+211	821	6566322596573484	CMakeFiles/abc_hw2.dir/main.cpp.obj	46a901f286f46dda
+509	4686	6566956280116238	CMakeFiles/abc_hw2.dir/cartoon.cpp.obj	3049f9cbe28a7205
+1055	4690	6566956280116238	CMakeFiles/abc_hw2.dir/documentary.cpp.obj	5f1d492eb4d9e29f
+1	4693	6566956280126246	CMakeFiles/abc_hw2.dir/main.cpp.obj	46a901f286f46dda
+776	4695	6566956280116238	CMakeFiles/abc_hw2.dir/game.cpp.obj	d6c93d4148a53e94
+235	4774	6566956280126246	CMakeFiles/abc_hw2.dir/film.cpp.obj	1f483d7f2e26b45f
+1314	11928	6566956352574296	CMakeFiles/abc_hw2.dir/container.cpp.obj	d5bb618678a60cfa
+0	2137	6566957980872557	CMakeFiles/abc_hw2.dir/main.cpp.obj	46a901f286f46dda
+646	2141	6566957980862569	CMakeFiles/abc_hw2.dir/cartoon.cpp.obj	3049f9cbe28a7205
+836	2147	6566957980872557	CMakeFiles/abc_hw2.dir/container.cpp.obj	d5bb618678a60cfa
+379	2149	6566957980872557	CMakeFiles/abc_hw2.dir/film.cpp.obj	1f483d7f2e26b45f
+1117	2152	6566957980882548	CMakeFiles/abc_hw2.dir/documentary.cpp.obj	5f1d492eb4d9e29f
+1403	2152	6566957980872557	CMakeFiles/abc_hw2.dir/game.cpp.obj	d6c93d4148a53e94
+2153	5286	6566958011547994	abc_hw2.exe	1a224600089c2bea
